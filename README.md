@@ -1,6 +1,6 @@
 # Javascript-Fazztract
 
-:hammer_and_wrench: Installation Steps
+:hammer_and_wrench: #Installation Steps
 1. Clone the Repository
 ``` bash
 git clone https://github.com/nadahusin/Javascript-Fazztract.git
