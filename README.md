@@ -1,4 +1,4 @@
-# Javascript-Fazztract
+
 
 :hammer_and_wrench: #Installation Steps
 1. Clone the Repository
